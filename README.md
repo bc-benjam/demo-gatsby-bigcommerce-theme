@@ -30,7 +30,7 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
 
 Click the button below and it will help you create a new repo, create a new Netlify project, and deploy this Theme!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/gatsby-ecommerce-theme&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bc-benjam/gatsby-bigcommerce-theme&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
 
 ## Regular Setup
 
